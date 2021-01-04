@@ -1,1 +1,4 @@
-Of all the legends that roam this earth with falsehoods, this one is the most false yet.
+---
+title: "Welcome to the greatest blog imaginable"
+date: 2021-01-04
+---
